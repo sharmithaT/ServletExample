@@ -17,6 +17,7 @@ public class CollectionSorting {
 
         Collections.sort(list);
         System.out.println(list);
+        System.out.println("branch");
 
 
     }
